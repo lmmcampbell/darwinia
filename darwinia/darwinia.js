@@ -28,3 +28,4 @@ Darwinia.routes.on("route:default",function(actions){
 Darwinia.start=function(){
 	Backbone.history.start();
 }();
+console.log('hello world');
